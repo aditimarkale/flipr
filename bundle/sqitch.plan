@@ -7,7 +7,3 @@ users [appschema] 2017-07-13T21:15:51Z Aditi Markale <amarkale@matchbooklearning
 insert_user [users appschema] 2017-07-13T21:38:02Z Aditi Markale <amarkale@matchbooklearning.com> # Create a function to insert new user.
 change_pass [users appschema] 2017-07-13T21:39:00Z Aditi Markale <amarkale@matchbooklearning.com> # Create a function to change a user password.
 @v1.0.0-dev1 2017-07-13T22:47:34Z Aditi Markale <amarkale@matchbooklearning.com> # Tag v1.0.0-dev1.
-
-flips [appschema users] 2017-07-13T23:03:46Z Aditi Markale <amarkale@matchbooklearning.com> # Add table for storing flips
-insert_flip [users appschema] 2017-07-13T23:16:01Z Aditi Markale <amarkale@matchbooklearning.com> # Creates a function to insert a flip.
-delete_flip [users appschema] 2017-07-13T23:18:05Z Aditi Markale <amarkale@matchbooklearning.com> # Creates a function to delete a flip.
