@@ -2,3 +2,4 @@
 %project=flipr
 %uri=https://github.com/theory/sqitch-intro/
 
+appschema 2017-07-13T14:44:40Z Aditi Markale <amarkale@matchbooklearning.com> # Add schema for all flipr objects.
