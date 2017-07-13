@@ -4,3 +4,5 @@
 
 appschema 2017-07-13T14:44:40Z Aditi Markale <amarkale@matchbooklearning.com> # Add schema for all flipr objects.
 users [appschema] 2017-07-13T21:15:51Z Aditi Markale <amarkale@matchbooklearning.com> # Create table to track our users.
+insert_user [users appschema] 2017-07-13T21:38:02Z Aditi Markale <amarkale@matchbooklearning.com> # Create a function to insert new user.
+change_pass [users appschema] 2017-07-13T21:39:00Z Aditi Markale <amarkale@matchbooklearning.com> # Create a function to change a user password.
