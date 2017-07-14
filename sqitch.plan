@@ -11,3 +11,4 @@ change_pass [users appschema] 2017-07-13T21:39:00Z Aditi Markale <amarkale@match
 flips [appschema users] 2017-07-13T23:03:46Z Aditi Markale <amarkale@matchbooklearning.com> # Add table for storing flips
 insert_flip [users appschema] 2017-07-13T23:16:01Z Aditi Markale <amarkale@matchbooklearning.com> # Creates a function to insert a flip.
 delete_flip [users appschema] 2017-07-13T23:18:05Z Aditi Markale <amarkale@matchbooklearning.com> # Creates a function to delete a flip.
+@v1.0.0-dev2 2017-07-14T14:24:27Z Aditi Markale <amarkale@matchbooklearning.com> # Tag v1.0.0-dev2.
